@@ -24,8 +24,7 @@ A simple REST API built using **Node.js** and **Express.js** that performs CRUD 
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/R-Srijanki/Nodejs_Assignment.git
-cd Nodejs_Assignment
+git clone https://github.com/dharmavirkumar/NodejsPro.git
 ````
 ### 2️⃣ Install dependencies
 

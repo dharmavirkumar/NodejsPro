@@ -10,9 +10,17 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "A simple REST API built using **Node.js** and **Express.js** that performs CRUD operations on an in-memory list of users.",
   "dependencies": {
     "express": "^5.1.0",
     "nodemon": "^3.1.11"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/R-Srijanki/Nodejs_Assignment.git"
+  },
+  "bugs": {
+    "url": "https://github.com/R-Srijanki/Nodejs_Assignment/issues"
+  },
+  "homepage": "https://github.com/R-Srijanki/Nodejs_Assignment#readme"
 }
